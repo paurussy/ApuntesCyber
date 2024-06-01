@@ -12,13 +12,21 @@ nmap -p- --open --min-rate 5000 -sS -vvv 172.17.0.2 -n -Pn -oG allPorts
 #### Parámetros del Escaneo
 
  `-p-` Escaneo de todo rango de puertos
+ 
  `--open` Filtrar solo por los puertos abiertos
+ 
  `--min-rate 5000` No permitir paquetes más lentos que 5000p/s
+ 
  `-sS` Usar el método TCP-SYN
+ 
  `-vvv` Ver la información en tiempo real
+ 
  `172.17.0.2` La IP
+ 
  `-n` No aplicar resolución DNS
+ 
  `-Pn` Deshabilitar el descubrimiento de Host
+ 
  `-oG allPorts` Exportar el escaneo en formato Grepeable
 
 #### Output
