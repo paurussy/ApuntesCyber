@@ -8,5 +8,27 @@
   "readableLineLength": false,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "spellcheckDictionary": [
+    "Nmap",
+    "nmap",
+    "Whatweb",
+    "whatweb",
+    "$url",
+    "PasswordField",
+    "SQLi",
+    "or",
+    "PostLogin",
+    "ssh",
+    "sshpass",
+    "TTY",
+    "GUID",
+    "*GUI",
+    " *ro",
+    "SUID",
+    "env",
+    "root",
+    "ROOT",
+    "Root"
+  ]
 }
