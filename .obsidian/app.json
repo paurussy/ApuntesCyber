@@ -30,5 +30,6 @@
     "root",
     "ROOT",
     "Root"
-  ]
+  ],
+  "useMarkdownLinks": true
 }

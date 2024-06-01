@@ -45,13 +45,11 @@ http://172.17.0.2 [200 OK] Apache[2.4.52], Cookies[PHPSESSID], Country[RESERVED]
 
 ### Vista de la WEB
 Vemos que sí tiene un login.
-![[Pasted image 20240601180703.png]]
-
+![](../../images/Pasted%20image%2020240601180703.png)
 # Explotación
 ## SQLi
 Al tener un login, lo primero que se prueba es un *SQLi* para intentar evadir el login.
-![[Pasted image 20240601181435.png]]
-
+![](../../images/Pasted%20image%2020240601181435.png)
 En el campo USER vamos a insertar `${texto}' or 1=1;`, lo que queremos es que el resultado de la petición sea *True*:
 
 Nosotros ahora estamos enviando esta petición:
@@ -67,11 +65,9 @@ Nos permite la evasión del login.
 
 ## SSH
 Vemos un *Usuario* y una *Contraseña*, por lo tanto, intentaremos entrar por *ssh* (Servicio que sabemos que está corriendo).
-![[Pasted image 20240601183040.png]]
-
+![](../../images/Pasted%20image%2020240601183040.png)
 Usamos *sshpass* para no tener que introducir la contraseña luego.
-![[Pasted image 20240601183504.png]]
-
+![](../../images/Pasted%20image%2020240601183504.png)
 **¡¡Tenemos acceso al sistema!!**
 
 ### Tratamiento de la TTY
@@ -129,6 +125,5 @@ En esta misma página nos indica como podemos escalar privilegios con este binar
 ```r
 env /bin/bash -p
 ```
-![[Pasted image 20240601185157.png]]
-
+![](../../images/Pasted%20image%2020240601185157.png)
 **¡¡Ya tenemos privilegios ROOT!!**
