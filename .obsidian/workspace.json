@@ -11,8 +11,12 @@
             "id": "b06b76539b28f03d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WriteUp/DockerLabs/Injection.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WriteUp/DockerLabs/Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "WriteUp/DockerLabs/Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WriteUp/DockerLabs/Injection.md"
+              }
             }
           },
           {
@@ -156,6 +164,11 @@
   },
   "active": "b06b76539b28f03d",
   "lastOpenFiles": [
+    "WriteUp/DockerLabs/Injection.md",
+    "Redes/Modelo OSI.md",
+    "WriteUp/DockerLabs",
+    "WriteUp",
+    "Coding/Java/1 - Clases Predefinidas en Java/2 - Clase Math.md",
     "Linux/Genérico Linux/0 - Comandos Básicos de Linux/Comando FIND.md",
     "Linux/Genérico Linux/0 - Comandos Básicos de Linux/Comando File - Conocer características de un Fichero Linux.md",
     "Linux/Genérico Linux/0 - Comandos Básicos de Linux/Comando ID.md",
@@ -179,9 +192,6 @@
     "Hacking/Hacking Generico/Bypass Login Máquinas Linux - Saltando el Login desde el Grub en Linux.md",
     "Hacking/Hacking Generico/Bypass Login Máquinas Windows.md",
     "Hacking/Hacking Generico/Nmap/Nmap.md",
-    "Hacking/Hacking Puertos/Puerto 445 - SMB.md",
-    "Hacking/Codificación/MD5SUM - Generar Hash md5 de un Archivo.md",
-    "Coding/Java/2 - Programación/9 - Bucles WHILE.md",
     "images/Pasted image 20240523132524.png",
     "images/Pasted image 20240523131704.png",
     "images/Pasted image 20240523131316.png",
@@ -199,8 +209,6 @@
     "Coding/Python/Ejercicios Prácticos",
     "Coding/Python/Hacking Python/Exploits",
     "Hacking/CTF/Creación de CTF/Windows",
-    "Hacking/CTF/DockerLabs",
-    "Hacking/CTF/Laboratorios PortSwigger/Prototype Pollution",
-    "Hacking/CTF/Dojo YesWeHack/XSS"
+    "Hacking/CTF/DockerLabs"
   ]
 }
