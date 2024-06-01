@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "08c8fdfd831acb89",
+    "type": "split",
+    "children": [
+      {
+        "id": "90e7251181998317",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e085dd5c8d2f9eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Genérico Linux/0 - Comandos Básicos de Linux/Comando FIND.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9cc23116872a3018",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e4ee3d8239c2966",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1488e07dc1ca064",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "775d8b0ba09ab1d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb00ae4b4ebfe075",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c821e130e26ccfea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 396.5
+  },
+  "right": {
+    "id": "d7e788db363d17ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "9029a163754aabf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9ca206a5f3bbf57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux/Genérico Linux/0 - Comandos Básicos de Linux/Comando FIND.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd501c08d0377f71",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux/Genérico Linux/0 - Comandos Básicos de Linux/Comando FIND.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5bbf9db33a641888",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3a57587efa5796be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux/Genérico Linux/0 - Comandos Básicos de Linux/Comando FIND.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "5e085dd5c8d2f9eb",
+  "lastOpenFiles": [
+    "Linux/Genérico Linux/0 - Comandos Básicos de Linux/Comando File - Conocer características de un Fichero Linux.md",
+    "Linux/Genérico Linux/0 - Comandos Básicos de Linux/Comando ID.md",
+    "Linux/Bash Scripting/Utilizar colores dentro de un script de bash.md",
+    "Linux/Bash Scripting/Gestión de Errores en Bash.md",
+    "Linux/Bash Scripting/Expresiones Regulares en Linux/COMANDO SED (Para sustituir letras o palabras por otros, de distinta extensión).md",
+    "Linux/Bash Scripting/Expresiones Regulares en Linux/COMANDO CUT (Para seleccionar caracteres).md",
+    "Linux/Bash Scripting/Expresiones Regulares en Linux/COMANDO AWK (Para filtrar por columnas en bash).md",
+    "Coding/PHP/4 - Bucle FOR.md",
+    "Coding/PHP/3 - Ejecución Remota de Comandos en PHP.md",
+    "Coding/PHP/2 - Imágenes en PHP.md",
+    "Coding/PHP/1 - Variables.md",
+    "Bases de Datos/MongoDB/2 - Las Colecciones.md",
+    "Bases de Datos/MongoDB/1 - Conceptos Básicos MongoDB.md",
+    "Bases de Datos/MongoDB/0 - Instalación de MongoDB.md",
+    "Bases de Datos/Mysql/Union.md",
+    "Bases de Datos/Mysql/Conceptos Básicos.md",
+    "Bases de Datos/Mysql/Crear una Tabla con sus Registros.md",
+    "Bases de Datos/Mysql/Consultas.md",
+    "Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
+    "Hacking/Hacking Generico/Bypass Login Máquinas Linux - Saltando el Login desde el Grub en Linux.md",
+    "Hacking/Hacking Generico/Bypass Login Máquinas Windows.md",
+    "Hacking/Hacking Generico/Nmap/Nmap.md",
+    "Hacking/Hacking Puertos/Puerto 445 - SMB.md",
+    "Hacking/Codificación/MD5SUM - Generar Hash md5 de un Archivo.md",
+    "Coding/Java/2 - Programación/9 - Bucles WHILE.md",
+    "Coding/Java/2 - Programación/8 - Bucles FOR.md",
+    "images/Pasted image 20240523132524.png",
+    "images/Pasted image 20240523131704.png",
+    "images/Pasted image 20240523131316.png",
+    "images/Pasted image 20240523131247.png",
+    "images/Pasted image 20240523130206.png",
+    "images/Pasted image 20240523130043.png",
+    "images/Pasted image 20240523125922.png",
+    "images/Pasted image 20240527120108.png",
+    "images/Pasted image 20240527120053.png",
+    "images/Pasted image 20240527115914.png",
+    "Hacking/Hacking Generico/Hacking Web/(XSS) - Cross-Site Scripting/XSS-Game",
+    "Hacking/Hacking Generico/Hacking Web/(XSS) - Cross-Site Scripting",
+    "Hacking/CTF/Laboratorios PortSwigger/Prototype Pollution 1",
+    "Coding/Python/Generico/Librerías/Librería Flask",
+    "Coding/Python/Ejercicios Prácticos",
+    "Coding/Python/Hacking Python/Exploits",
+    "Hacking/CTF/Creación de CTF/Windows",
+    "Hacking/CTF/DockerLabs",
+    "Hacking/CTF/Laboratorios PortSwigger/Prototype Pollution",
+    "Hacking/CTF/Dojo YesWeHack/XSS"
+  ]
+}
