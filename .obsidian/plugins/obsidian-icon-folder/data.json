@@ -49,5 +49,6 @@
   "conocimiento/conocimiento/Hacking/CTF/Vulnhub/Máquina EMPIRE BREAKOUT (Enumerar usuarios válidos en panel de login con enum4linux y escalar privilegios con capabilities).md": "FabLinux",
   "conocimiento/conocimiento/Coding/Python": "FabPython",
   "conocimiento/conocimiento/Hacking/CTF/Vulnhub/MAQUINA TEMPUS FUGIT 3.md": "FabLinux",
-  "conocimiento/conocimiento/Hacking/CTF/Vulnhub/MAQUINA SECTALKS (Vulnerabilidad arbitrary file upload, php malicioso con msfvenom, y multi-handler de metasploit).md": "FabLinux"
+  "conocimiento/conocimiento/Hacking/CTF/Vulnhub/MAQUINA SECTALKS (Vulnerabilidad arbitrary file upload, php malicioso con msfvenom, y multi-handler de metasploit).md": "FabLinux",
+  "images/Pasted image 20230316213042.png": "FabWindows"
 }

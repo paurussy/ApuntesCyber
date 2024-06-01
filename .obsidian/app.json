@@ -29,7 +29,9 @@
     "env",
     "root",
     "ROOT",
-    "Root"
+    "Root",
+    "Grepeable"
   ],
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }
