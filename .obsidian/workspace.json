@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WriteUp/DockerLabs/Injection.md",
+                "file": "Certificaciones/OSCP.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WriteUp/DockerLabs/Injection.md",
+                "file": "Certificaciones/OSCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WriteUp/DockerLabs/Injection.md",
+                "file": "Certificaciones/OSCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WriteUp/DockerLabs/Injection.md"
+                "file": "Certificaciones/OSCP.md"
               }
             }
           },
@@ -159,11 +159,22 @@
       "graph:Abrir vista gráfica": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "b06b76539b28f03d",
   "lastOpenFiles": [
+    "Sin título.canvas",
+    "Certificaciones/OSCP.md",
+    "images/DockerLabs/Injection3.png",
+    "README.md",
+    "images/DockerLabs/Injection2.png",
+    "images/DockerLabs/Injection1.png",
+    "DockerLabs/Injection.md",
+    "Certificaciones",
+    "404.html",
+    "export",
     "WriteUp/DockerLabs/Injection.md",
     "Hacking/Codificación/MD5SUM - Generar Hash md5 de un Archivo.md",
     "Pasted.md",
@@ -195,20 +206,10 @@
     "Bases de Datos/MongoDB/0 - Instalación de MongoDB.md",
     "Bases de Datos/Mysql/Union.md",
     "Bases de Datos/Mysql/Conceptos Básicos.md",
-    "Bases de Datos/Mysql/Crear una Tabla con sus Registros.md",
-    "Bases de Datos/Mysql/Consultas.md",
-    "Hacking/Hacking Generico/Buffer Overflow/Buffer Overflow en windows.md",
-    "Hacking/Hacking Generico/Bypass Login Máquinas Linux - Saltando el Login desde el Grub en Linux.md",
-    "images/Pasted image 20240523132524.png",
-    "images/Pasted image 20240523131704.png",
-    "images/Pasted image 20240523131316.png",
     "Hacking/Hacking Generico/Hacking Web/(XSS) - Cross-Site Scripting/XSS-Game",
     "Hacking/Hacking Generico/Hacking Web/(XSS) - Cross-Site Scripting",
     "Hacking/CTF/Laboratorios PortSwigger/Prototype Pollution 1",
     "Coding/Python/Generico/Librerías/Librería Flask",
-    "Coding/Python/Ejercicios Prácticos",
-    "Coding/Python/Hacking Python/Exploits",
-    "Hacking/CTF/Creación de CTF/Windows",
-    "Hacking/CTF/DockerLabs"
+    "Coding/Python/Ejercicios Prácticos"
   ]
 }
