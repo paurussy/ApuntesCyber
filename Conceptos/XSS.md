@@ -23,6 +23,7 @@ La secuencia de comandos reflejada entre sitios surge cuando una aplicación rec
 
 ***Ejemplo***
 Supongamos que un sitio web tiene una función de búsqueda (la cual no realiza ningún procesamiento de los datos) y el usuario proporciona un término en un parámetro de URL:
+
 ![](../images/Conceptos/XSS%201.png)
 
 Si el usuario visita la URL construida por el atacante, entonces el script del atacante se ejecutará en el navegador del usuario. 
@@ -43,6 +44,7 @@ Suponiendo que la aplicación no realiza ningún otro procesamiento de los datos
 Para que la solicitud la guarde como un comentario en la base de datos.
 
 Cualquier usuario que visite la publicación del blog ahora recibirá el script dentro de la respuesta de la aplicación:
+
 ![](../images/Conceptos/XSS%202.png)
 
 Y la secuencia de comandos del atacante se ejecutará en el navegador del usuario.
