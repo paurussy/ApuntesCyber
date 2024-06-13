@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ba3edac48b0ac93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conceptos/XSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Certificaciones/OSCP.md",
+                "file": "Conceptos/XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Certificaciones/OSCP.md",
+                "file": "Conceptos/XSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Certificaciones/OSCP.md"
+                "file": "Conceptos/XSS.md"
               }
             }
           },
@@ -163,10 +176,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b06b76539b28f03d",
+  "active": "1ba3edac48b0ac93",
   "lastOpenFiles": [
-    "Sin título.canvas",
+    "images/Conceptos/XSS 2.png",
+    "Conceptos/XSS.md",
     "Certificaciones/OSCP.md",
+    "images/Conceptos/XSS 1.png",
+    "images/Conceptos",
+    "Conceptos/Broken Access Control.md",
+    "Conceptos",
+    "Sin título.canvas",
     "images/DockerLabs/Injection3.png",
     "README.md",
     "images/DockerLabs/Injection2.png",
@@ -183,8 +202,6 @@
     "images/Pasted image 20240601183504.png",
     "images/Pasted image 20240601183040.png",
     "images/Pasted image 20240601181435.png",
-    "images/Pasted image 20240601181230.png",
-    "images/Pasted image 20240601180703.png",
     "Redes/Modelo OSI.md",
     "WriteUp/DockerLabs",
     "WriteUp",
@@ -204,12 +221,8 @@
     "Bases de Datos/MongoDB/2 - Las Colecciones.md",
     "Bases de Datos/MongoDB/1 - Conceptos Básicos MongoDB.md",
     "Bases de Datos/MongoDB/0 - Instalación de MongoDB.md",
-    "Bases de Datos/Mysql/Union.md",
-    "Bases de Datos/Mysql/Conceptos Básicos.md",
     "Hacking/Hacking Generico/Hacking Web/(XSS) - Cross-Site Scripting/XSS-Game",
     "Hacking/Hacking Generico/Hacking Web/(XSS) - Cross-Site Scripting",
-    "Hacking/CTF/Laboratorios PortSwigger/Prototype Pollution 1",
-    "Coding/Python/Generico/Librerías/Librería Flask",
-    "Coding/Python/Ejercicios Prácticos"
+    "Hacking/CTF/Laboratorios PortSwigger/Prototype Pollution 1"
   ]
 }

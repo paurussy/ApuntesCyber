@@ -7,7 +7,7 @@ Certified Offensive Security Professional
 
 - Dominar la escalada de privilegios (Win & Linux)
 - Redacción de informes
-- Hacking Web (XSS, SQL Injection, Broken acces control, etc.)
+- Hacking Web ([XSS](../Conceptos/XSS.md), SQL Injection, [Broken Access Control](../Conceptos/Broken%20Access%20Control.md), etc.)
 - Enumeración
 - Active Directory
 - Exploits públicos (Ajustar los scripts)
